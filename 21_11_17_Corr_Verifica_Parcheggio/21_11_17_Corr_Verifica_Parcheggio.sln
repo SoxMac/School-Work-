@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21_11_17_Corr_Verifica_Parcheggio", "21_11_17_Corr_Verifica_Parcheggio.vcxproj", "{6F559B63-31ED-4A72-AC37-AA1480BEBEA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F559B63-31ED-4A72-AC37-AA1480BEBEA1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F559B63-31ED-4A72-AC37-AA1480BEBEA1}.Debug|Win32.Build.0 = Debug|Win32
+		{6F559B63-31ED-4A72-AC37-AA1480BEBEA1}.Release|Win32.ActiveCfg = Release|Win32
+		{6F559B63-31ED-4A72-AC37-AA1480BEBEA1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

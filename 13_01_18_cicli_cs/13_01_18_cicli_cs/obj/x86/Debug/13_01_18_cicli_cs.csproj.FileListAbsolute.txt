@@ -1,0 +1,4 @@
+C:\Users\marcos.lupini\Desktop\Informatica\13_01_18_cicli_cs\13_01_18_cicli_cs\bin\Debug\13_01_18_cicli_cs.exe
+C:\Users\marcos.lupini\Desktop\Informatica\13_01_18_cicli_cs\13_01_18_cicli_cs\bin\Debug\13_01_18_cicli_cs.pdb
+C:\Users\marcos.lupini\Desktop\Informatica\13_01_18_cicli_cs\13_01_18_cicli_cs\obj\x86\Debug\13_01_18_cicli_cs.exe
+C:\Users\marcos.lupini\Desktop\Informatica\13_01_18_cicli_cs\13_01_18_cicli_cs\obj\x86\Debug\13_01_18_cicli_cs.pdb

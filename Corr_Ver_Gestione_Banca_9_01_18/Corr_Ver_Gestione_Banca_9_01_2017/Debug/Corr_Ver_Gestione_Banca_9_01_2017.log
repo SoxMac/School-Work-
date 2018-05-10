@@ -1,0 +1,43 @@
+﻿Compilazione avviata 09/01/2018 10.10.01.
+     1>Progetto "C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Corr_Ver_Gestione_Banca_9_01_2017\Corr_Ver_Gestione_Banca_9_01_2017.vcxproj" sul nodo 2 (destinazioni: rebuild).
+     1>_PrepareForClean:
+         Eliminazione del file "Debug\Corr_Ver_Gestione_Banca_9_01_2017.lastbuildstate" in corso.
+       InitializeBuildStatus:
+         Creazione di "Debug\Corr_Ver_Gestione_Banca_9_01_2017.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Banca.cpp main.cpp
+         main.cpp
+     1>c:\users\marcos.lupini\desktop\informatica\corr_ver_gestione_banca_9_01_2017\corr_ver_gestione_banca_9_01_2017\main.cpp(8): warning C4101: 'str': variabile locale senza riferimenti
+         Banca.cpp
+     1>c:\users\marcos.lupini\desktop\informatica\corr_ver_gestione_banca_9_01_2017\corr_ver_gestione_banca_9_01_2017\banca.cpp(28): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): vedere la dichiarazione di 'sprintf'
+     1>c:\users\marcos.lupini\desktop\informatica\corr_ver_gestione_banca_9_01_2017\corr_ver_gestione_banca_9_01_2017\banca.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): vedere la dichiarazione di 'strcpy'
+     1>c:\users\marcos.lupini\desktop\informatica\corr_ver_gestione_banca_9_01_2017\corr_ver_gestione_banca_9_01_2017\banca.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): vedere la dichiarazione di 'strcpy'
+     1>c:\users\marcos.lupini\desktop\informatica\corr_ver_gestione_banca_9_01_2017\corr_ver_gestione_banca_9_01_2017\banca.cpp(44): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371): vedere la dichiarazione di 'sprintf'
+         Generazione del codice in corso...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.embed.manifest.res" Debug\Corr_Ver_Gestione_Banca_9_01_2017_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Debug\Corr_Ver_Gestione_Banca_9_01_2017.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Debug\Corr_Ver_Gestione_Banca_9_01_2017.lib" /MACHINE:X86 Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.embed.manifest.res
+         Debug\Banca.obj
+         Debug\main.obj
+       Manifest:
+         Eliminazione del file "Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.embed.manifest" in corso.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.embed.manifest" /manifest Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.embed.manifest.res" Debug\Corr_Ver_Gestione_Banca_9_01_2017_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Debug\Corr_Ver_Gestione_Banca_9_01_2017.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Debug\Corr_Ver_Gestione_Banca_9_01_2017.lib" /MACHINE:X86 Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe.embed.manifest.res
+         Debug\Banca.obj
+         Debug\main.obj
+         Corr_Ver_Gestione_Banca_9_01_2017.vcxproj -> C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Debug\Corr_Ver_Gestione_Banca_9_01_2017.exe
+       FinalizeBuildStatus:
+         Eliminazione del file "Debug\Corr_Ver_Gestione_Banca_9_01_2017.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Debug\Corr_Ver_Gestione_Banca_9_01_2017.lastbuildstate".
+     1>Compilazione progetto "C:\Users\marcos.lupini\Desktop\Informatica\Corr_Ver_Gestione_Banca_9_01_2017\Corr_Ver_Gestione_Banca_9_01_2017\Corr_Ver_Gestione_Banca_9_01_2017.vcxproj" (destinazioni: rebuild) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.63

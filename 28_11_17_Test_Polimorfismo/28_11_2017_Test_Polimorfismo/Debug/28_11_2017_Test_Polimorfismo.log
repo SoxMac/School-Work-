@@ -1,0 +1,41 @@
+﻿Compilazione avviata 28/11/2017 10.30.40.
+     1>Progetto "C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\28_11_2017_Test_Polimorfismo\28_11_2017_Test_Polimorfismo.vcxproj" sul nodo 2 (destinazioni: rebuild).
+     1>_PrepareForClean:
+         Eliminazione del file "Debug\28_11_2017_Test_Polimorfismo.lastbuildstate" in corso.
+       InitializeBuildStatus:
+         Creazione di "Debug\28_11_2017_Test_Polimorfismo.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Cerchio.cpp Figura.cpp main.cpp Rettangolo.cpp
+         Rettangolo.cpp
+         main.cpp
+         Figura.cpp
+         Cerchio.cpp
+     1>c:\users\marcos.lupini\desktop\informatica\28_11_2017_test_polimorfismo\28_11_2017_test_polimorfismo\cerchio.cpp(18): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+         Generazione del codice in corso...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\28_11_2017_Test_Polimorfismo.exe.embed.manifest.res" Debug\28_11_2017_Test_Polimorfismo_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\Debug\28_11_2017_Test_Polimorfismo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\28_11_2017_Test_Polimorfismo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\Debug\28_11_2017_Test_Polimorfismo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\Debug\28_11_2017_Test_Polimorfismo.lib" /MACHINE:X86 Debug\28_11_2017_Test_Polimorfismo.exe.embed.manifest.res
+         Debug\Cerchio.obj
+         Debug\Figura.obj
+         Debug\main.obj
+         Debug\Rettangolo.obj
+       Manifest:
+         Eliminazione del file "Debug\28_11_2017_Test_Polimorfismo.exe.embed.manifest" in corso.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\28_11_2017_Test_Polimorfismo.exe.embed.manifest" /manifest Debug\28_11_2017_Test_Polimorfismo.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\28_11_2017_Test_Polimorfismo.exe.embed.manifest.res" Debug\28_11_2017_Test_Polimorfismo_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\Debug\28_11_2017_Test_Polimorfismo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\28_11_2017_Test_Polimorfismo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\Debug\28_11_2017_Test_Polimorfismo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\Debug\28_11_2017_Test_Polimorfismo.lib" /MACHINE:X86 Debug\28_11_2017_Test_Polimorfismo.exe.embed.manifest.res
+         Debug\Cerchio.obj
+         Debug\Figura.obj
+         Debug\main.obj
+         Debug\Rettangolo.obj
+         28_11_2017_Test_Polimorfismo.vcxproj -> C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\Debug\28_11_2017_Test_Polimorfismo.exe
+       FinalizeBuildStatus:
+         Eliminazione del file "Debug\28_11_2017_Test_Polimorfismo.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Debug\28_11_2017_Test_Polimorfismo.lastbuildstate".
+     1>Compilazione progetto "C:\Users\marcos.lupini\Desktop\Informatica\28_11_2017_Test_Polimorfismo\28_11_2017_Test_Polimorfismo\28_11_2017_Test_Polimorfismo.vcxproj" (destinazioni: rebuild) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.65

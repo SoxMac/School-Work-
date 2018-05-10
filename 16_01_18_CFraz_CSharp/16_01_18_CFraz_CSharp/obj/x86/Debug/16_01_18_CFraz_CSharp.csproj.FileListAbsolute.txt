@@ -1,0 +1,4 @@
+C:\Users\marcos.lupini\Desktop\Informatica\16_01_18_CFraz_CSharp\16_01_18_CFraz_CSharp\bin\Debug\16_01_18_CFraz_CSharp.exe
+C:\Users\marcos.lupini\Desktop\Informatica\16_01_18_CFraz_CSharp\16_01_18_CFraz_CSharp\bin\Debug\16_01_18_CFraz_CSharp.pdb
+C:\Users\marcos.lupini\Desktop\Informatica\16_01_18_CFraz_CSharp\16_01_18_CFraz_CSharp\obj\x86\Debug\16_01_18_CFraz_CSharp.exe
+C:\Users\marcos.lupini\Desktop\Informatica\16_01_18_CFraz_CSharp\16_01_18_CFraz_CSharp\obj\x86\Debug\16_01_18_CFraz_CSharp.pdb

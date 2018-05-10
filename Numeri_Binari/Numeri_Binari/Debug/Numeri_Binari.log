@@ -1,0 +1,34 @@
+﻿Compilazione avviata 25/11/2017 12.30.39.
+     1>Progetto "C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Numeri_Binari\Numeri_Binari.vcxproj" sul nodo 2 (destinazioni: rebuild).
+     1>_PrepareForClean:
+         Eliminazione del file "Debug\Numeri_Binari.lastbuildstate" in corso.
+       InitializeBuildStatus:
+         Creazione di "Debug\Numeri_Binari.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Bin.cpp main.cpp
+         main.cpp
+         Bin.cpp
+         Generazione del codice in corso...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Numeri_Binari.exe.embed.manifest.res" Debug\Numeri_Binari_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Debug\Numeri_Binari.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Numeri_Binari.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Debug\Numeri_Binari.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Debug\Numeri_Binari.lib" /MACHINE:X86 Debug\Numeri_Binari.exe.embed.manifest.res
+         Debug\Bin.obj
+         Debug\main.obj
+       Manifest:
+         Eliminazione del file "Debug\Numeri_Binari.exe.embed.manifest" in corso.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Numeri_Binari.exe.embed.manifest" /manifest Debug\Numeri_Binari.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Numeri_Binari.exe.embed.manifest.res" Debug\Numeri_Binari_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Debug\Numeri_Binari.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Numeri_Binari.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Debug\Numeri_Binari.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Debug\Numeri_Binari.lib" /MACHINE:X86 Debug\Numeri_Binari.exe.embed.manifest.res
+         Debug\Bin.obj
+         Debug\main.obj
+         Numeri_Binari.vcxproj -> C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Debug\Numeri_Binari.exe
+       FinalizeBuildStatus:
+         Eliminazione del file "Debug\Numeri_Binari.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Debug\Numeri_Binari.lastbuildstate".
+     1>Compilazione progetto "C:\Users\marcos.lupini\Desktop\Informatica\Numeri_Binari\Numeri_Binari\Numeri_Binari.vcxproj" (destinazioni: rebuild) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.60

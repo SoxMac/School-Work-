@@ -1,0 +1,7 @@
+C:\Users\marcos.lupini\Desktop\Informatica\23_01_18_Frazione\23_01_18_Frazione\bin\Debug\23_01_18_Frazione.exe
+C:\Users\marcos.lupini\Desktop\Informatica\23_01_18_Frazione\23_01_18_Frazione\bin\Debug\23_01_18_Frazione.pdb
+C:\Users\marcos.lupini\Desktop\Informatica\23_01_18_Frazione\23_01_18_Frazione\obj\x86\Debug\_23_01_18_Frazione.FormMain.resources
+C:\Users\marcos.lupini\Desktop\Informatica\23_01_18_Frazione\23_01_18_Frazione\obj\x86\Debug\_23_01_18_Frazione.Properties.Resources.resources
+C:\Users\marcos.lupini\Desktop\Informatica\23_01_18_Frazione\23_01_18_Frazione\obj\x86\Debug\23_01_18_Frazione.csproj.GenerateResource.Cache
+C:\Users\marcos.lupini\Desktop\Informatica\23_01_18_Frazione\23_01_18_Frazione\obj\x86\Debug\23_01_18_Frazione.exe
+C:\Users\marcos.lupini\Desktop\Informatica\23_01_18_Frazione\23_01_18_Frazione\obj\x86\Debug\23_01_18_Frazione.pdb
